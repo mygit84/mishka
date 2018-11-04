@@ -1,0 +1,1 @@
+window.addEventListener("keydown",function(e){27===e.keyCode&&(e.preventDefault(),modal.classList.contains("modal--opened")&&(modal.classList.remove("modal--opened"),modal.classList.add("modal--closed"),overlay.classList.remove("modal__overlay--show")))});
