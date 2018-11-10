@@ -1,3 +1,1 @@
-# mishka
-
-## [DEMO](https://mygit84.github.io/mishka/)
+# [mishka](https://mygit84.github.io/mishka/)
